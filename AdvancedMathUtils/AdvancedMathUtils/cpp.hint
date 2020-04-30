@@ -1,0 +1,2 @@
+#define ADVANCEDMATHUTILS_API __declspec(dllexport)
+#define ADVANCEDMATHUTILS_API __declspec(dllimport)
